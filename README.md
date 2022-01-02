@@ -1,5 +1,6 @@
 # <a href="https://self-mismatch.github.io/Cinemaddict/">Cinemaddict - онлайн кинотеатр</a>
 <p>Это SPA-приложение, написанное исключительно на нативном JavaScript с минимальным использованием сторонних библиотек.</p>
+<img src="https://user-images.githubusercontent.com/44555577/147886301-034705cf-2321-4e85-b025-4ed4f950826e.png">
 
 <h3>В приложении можно:</h3>
 <ol>
