@@ -35,3 +35,6 @@
   <li>Day.js</li>
   <li>He</li>
 </ul>
+
+<p>Проект разрабатывался в рамках курса <a href="https://htmlacademy.ru/intensive/ecmascript">"JavaScript. Архитектура клиентских приложений"</a> от онлайн-школы <a href="https://htmlacademy.ru/">HTML Academy</a>. Проект в изначальном виде представлял из себя макет с вёрсткой и стилями, JavaScript-разработка велась с нуля лично мной под руководством наставника.</p>
+<a href="https://github.com/self-mismatch/252513-cinemaddict-14">Ссылка на репозиторий с git-историей разработки</a>
